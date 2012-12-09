@@ -1,7 +1,7 @@
 flamework-artisanal-integers
 ==
 
-Drop-in code and libraries for using artisinal integer-as-a-service provider
+Drop-in code and libraries for using artisanal integer-as-a-service provider
 APIs in your Flamework projects.
 
 Example
